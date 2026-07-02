@@ -35,7 +35,7 @@ The response data is processed and displayed in a clean format in the terminal.
 ## ⚙️ Installation
 
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/rodrigodgm1/weather-app.git
 
 Install dependencies:
 pip install requests
